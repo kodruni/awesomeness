@@ -8,5 +8,5 @@ background-color: yellow;
 }
 
 .jumbotron {
-background-image: background.jpg;
+background-image: url("img/background.jpg");
 }

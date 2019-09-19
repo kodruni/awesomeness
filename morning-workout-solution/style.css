@@ -9,6 +9,6 @@ background-color: blue;
 
 .jumbotron {
 background-image: url("img/background.jpg");
-background-size: contain;
+background-color: darkorange;
 }
 
